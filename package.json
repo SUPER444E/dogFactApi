@@ -1,0 +1,27 @@
+{
+  "name": "dogapiv1",
+  "version": "1.0.0",
+  "description": "dog api v1 implementation",
+  "keywords": [
+    "node",
+    "express",
+    "javaScript"
+  ],
+  "license": "ISC",
+  "author": "AndyT",
+  "type": "module",
+  "main": "index.js",
+
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SUPER444E/dogFactApi"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
